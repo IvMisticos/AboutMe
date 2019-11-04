@@ -1,4 +1,4 @@
-# Terms and Conditions (Last updated: 02.11.2019)
+# Terms and Conditions (Last updated: 04.11.2019)
 
 ## 1. Global Terms
 
@@ -7,6 +7,8 @@
 1.2 Breaking any of these terms will result in stopping all work for you and denial of any past, any access to our products, current or future product creation, refund and other requests from you.
 
 1.3 License in GitHub repository is appliable only for it's (repository's) files.
+
+1.4 All rights and copyrights to the plugin always belong to it's developer, not the customer if not 
 
 ## 2. Public Products*
 
