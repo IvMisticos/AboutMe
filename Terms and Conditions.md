@@ -1,4 +1,4 @@
-# Terms and Conditions (Last updated: 04.11.2019)
+# Terms and Conditions (Last updated: 05.11.2019)
 
 ## 1. Global Terms
 
@@ -12,7 +12,7 @@
 
 ## 2. Public Products*
 
-2.1 After purchasing any of our products customer acquires their lifetime updates. (Exclusion: see 1.2)
+2.1 After purchasing any of our products customer acquires its free updates until 3rd party takes it over or it's no longer supported. (Exclusion: see 1.2)
 
 2.2 Customer must pay to get the paid product.
 
@@ -22,7 +22,7 @@
 
 ## 3. Private Products*
 
-3.1 After receiving and confirming the workability of the order, customer loses the ability to request any free changes in the product.
+3.1 After receiving and confirming the workability of the order, customer loses the ability to request any free changes in the product and any right on free updates. (Exclusion: Developer's personal desire)
 
 3.2 Before requesting a product development customer must provide a technical task.
 
@@ -38,7 +38,7 @@
 
 3.8 If the order was divided into several parts, every single part must have a separate price.
 
-3.9 Technical task must be shared via Google Drive as a Google Document or any other comfortable method for **developer**.
+3.9 Technical task must be shared via Google Drive as a Google Document or any other comfortable method for developer.
 
 3.10 Customer pays the rest of the price only after developer demonstrated a working product.
 
