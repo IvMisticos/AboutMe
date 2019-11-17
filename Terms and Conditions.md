@@ -1,4 +1,4 @@
-# Terms and Conditions (Last updated: 05.11.2019)
+# Terms and Conditions (Last updated: 11/17/2019)
 
 ## 1. Global Terms
 
@@ -20,6 +20,8 @@
 
 2.4 We don't guarantee frequent updates, quick support and permanent workability for free products.
 
+2.5 Customer cannot resell plugins you bought or received in any unfair way.
+
 ## 3. Private Products*
 
 3.1 After receiving and confirming the workability of the order, customer loses the ability to request any free changes in the product and any right on free updates. (Exclusion: Developer's personal desire)
@@ -28,7 +30,7 @@
 
 3.3 Customer can request a private (available only for buyer and it's developer, more expensive) or public (available for anyone after purchase, cheaper. Developer may provide you a discount) product.
 
-3.4 If customer wants to sell the ordered product, customer will have to discuss it with the developer.
+3.4 If customer wants to sell, gift or share the ordered product, customer will have to discuss it with the developer.
 
 3.5 Customer should pay prepayment* in case developer asks to so that we begin making the order.
 
