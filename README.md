@@ -6,18 +6,19 @@ I am mainly a C# developer, create plugins for uMod (Rust game) and contribute/m
 
 I am familiar with the following technologies:
 
-* C# (since 2017)
-* ASP.NET Core (since 2019)
-* PHP (2019)
-* HTML (since 2018)
-* CSS (since 2018)
-* Git (since 2018)
+* C# (since 2017, Winter)
+* ASP.NET Core (since 2019, Summer)
+* PHP (2019, Spring)
+* HTML (since 2018, Autumn)
+* CSS (since 2018, Autumn)
+* Git (since 2018, Spring)
+* SQL (since 2019, Summer)
 
 I used some widely used frameworks, tools, websites and etc, like:
 
-* GitHub (since 2018)
-* GitLab (since 2018)
-* Laravel (2019)
+* GitHub (since 2017, Winter)
+* GitLab (since 2018, Summer)
+* Laravel (2019, Spring)
 
 # My achievements
 
@@ -34,5 +35,3 @@ I maintain some open-source projects.
 ## [uMod Plugins](https://github.com/IvMisticos/uModPlugins)
 
 > I make private and public plugins for uMod modification. Some of them are widely used and I am proud of it, because I try to improve this community by making plugins and helping people there.
-
-[comment]: <> (Thanks to Calytic and Ryan)

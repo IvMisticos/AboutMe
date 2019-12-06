@@ -1,4 +1,4 @@
-# Terms and Conditions (Last updated: 11/17/2019)
+# Terms and Conditions (Last updated: 12/06/2019)
 
 ## 1. Global Terms
 
@@ -8,7 +8,7 @@
 
 1.3 License in GitHub repository is appliable only for it's (repository's) files.
 
-1.4 All rights and copyrights to the plugin always belong to it's developer, not the customer if not 
+1.4 All rights and copyrights to the plugin always belong to it's developer, not the customer unless stated otherwise.
 
 ## 2. Public Products*
 
