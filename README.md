@@ -7,18 +7,26 @@ I am mainly a C# developer, create plugins for uMod (Rust game) and contribute/m
 I am familiar with the following technologies:
 
 * C# (since 2017, Winter)
-* ASP.NET Core (since 2019, Summer)
 * PHP (2019, Spring)
 * HTML (since 2018, Autumn)
 * CSS (since 2018, Autumn)
 * Git (since 2018, Spring)
 * SQL (since 2019, Summer)
 
-I used some widely used frameworks, tools, websites and etc, like:
+I used some widely used frameworks, tools and other stuff like:
 
 * GitHub (since 2017, Winter)
 * GitLab (since 2018, Summer)
 * Laravel (2019, Spring)
+* ASP.NET Core (since 2019, Summer)
+* [Discord.Net](https://github.com/discord-net/) (since 2020, Winter)
+* Entity Framework Core 3 (since 2019, Summer)
+* Grafana (since 2020, Winter)
+
+I used OS to host, run stuff and etc like:
+
+* Debian 10 (since 2020, Winter)
+* Ubuntu 16 (since 2016, Winter)
 
 # My achievements
 
