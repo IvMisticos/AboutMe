@@ -32,6 +32,10 @@ I used OS to host, run stuff and etc like:
 
 I maintain some open-source projects.
 
+## [uMod Plugins](https://gitlab.com/iv.misticos/uModPlugins)
+
+> I make private and public plugins for uMod modification. Some of them are widely used and I am proud of it, because I try to improve this community by making plugins and helping people there.
+
 ## [Console](https://github.com/TheConsole/Console)
 
 > I created this project to gather more experience with C#. It allows people to easily create hot-loadable plugins *(libraries)* with hooks *(events)*, commands, variables, logs, data-file system and other features.
@@ -39,7 +43,3 @@ I maintain some open-source projects.
 ## [dotBridge](https://github.com/dotbridge/)
 
 > dotBridge is a collection of my projects for mainly social websites/applications API interaction, like Discord.
-
-## [uMod Plugins](https://github.com/IvMisticos/uModPlugins)
-
-> I make private and public plugins for uMod modification. Some of them are widely used and I am proud of it, because I try to improve this community by making plugins and helping people there.
